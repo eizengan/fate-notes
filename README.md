@@ -1,7 +1,6 @@
 # Introduction
 
-This repo contains structured notes for the tabletop roleplaying game [Fate Core](https://www.evilhat.com/home/fate-core/ "the fate website")
-
+This repo contains structured notes for the tabletop roleplaying game [Fate Core](https://www.evilhat.com/home/fate-core/). The rulebook (and several other resources) are pay-what-you-like, and available [here](https://www.evilhat.com/home/fate-core-downloads/)
 ## Map
 
 * [Glossary](Glossary.md)
