@@ -8,7 +8,7 @@ This repo contains structured notes for the tabletop roleplaying game [Fate Core
 * [Administration](Administration.md)
 * [Actions/Outcomes](Actions_Outcomes.md)
 * [Rolls](Rolls.md)
-* Aspects
+* [Aspects](Aspects.md)
 * Fate points
 * Skills
 * Stunts
