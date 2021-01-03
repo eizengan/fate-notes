@@ -4,7 +4,7 @@ This repo contains structured notes for the tabletop roleplaying game [Fate Core
 
 ## Map
 
-* Glossary
+* [Glossary](Glossary.md)
 * Administration
 * Actions
 * Rolls
