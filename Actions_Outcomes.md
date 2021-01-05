@@ -32,3 +32,22 @@
 * ***Tie:*** attack fails, opponent gains a boost
 * ***Success:*** attack fails
 * ***Success with style:*** attack fails, gain a boost
+
+# Examples
+
+* Overcome an obstacle:
+  * Use strength to climb a steep cliff
+  * Use charisma to bluff at a hand of cards
+  * Use intelligence to recall an esoteric fact
+* Create an advantage (created/discovered aspect):
+  * Use strength to push over a bookcase to slow pursuers
+  * Use perception to gain information to leverage on a suspect
+* Create an advantage (known aspect)
+  * Use endurance to ensure an out-of-shape pursuer is winded when you engage them
+  * Use charisma to appeal to a royal's famous ego
+* Attack
+  * Use strength to stab an opponent
+  * Use charisma to intimidate an opponent into submission
+* Defend
+  * Use endurance to withstand a blow with a club
+  * Use perception to avoid submitting to intimidation
