@@ -9,6 +9,7 @@
 # Basics
 
 * Remain while true, and are always true while in play
+* May be removed with overcome actions
 * May be hidden, requiring discovery by actors before use
 * Can be invoked (chosen, positive) to grant bonuses
 * Can invoke multiple aspects simultaneously, but none more than once
