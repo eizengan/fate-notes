@@ -1,7 +1,7 @@
 # Setup
 
 * Determine sides (single people vs multiple using teamwork)
-* Determine environment (situation aspects)
+* Determine environment and time (situation aspects)
 * Determine difficulty (active from opposing team or passive with DC)
 * Determine relevant skills for each participant
 
