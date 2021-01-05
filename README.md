@@ -14,7 +14,7 @@ This repo contains structured notes for the tabletop roleplaying game [Fate Core
 * The three C's
   * [Challenges](Challenges.md)
   * [Contests](Contests.md)
-  * [Conflicts]()
+  * [Conflicts](Conflicts.md)
 * Recovery
 * Teamwork
 * Advancement
