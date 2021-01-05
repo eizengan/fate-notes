@@ -1,9 +1,30 @@
 # Types
 
 * ***Issues:*** aspects outlining the current storyline
+  * Can be impending or current
+  * By default two at a time
+  * Examples:
+    * Mob rule
+    * Undead siege
 * ***Situation aspects:*** aspects as set dressing
-* ***Actor aspects:*** aspects as descriptions of players/NPCs
+  * Examples:
+    * Thick fog
+    * Decaying pillars
+    * Roaring furnace
+* ***Actor aspects:*** aspects as descriptions of actors
+  * Two special aspects:
+    * High concept: an actor's raison d'etre
+    * Trouble: an actor's life's biggest complication
+  * Examples:
+    * Infamous swordsman
+    * Ranking member of the magisters guild
+    * No cost is too great for my brother
 * ***Consequences:*** aspects as descriptions of injury
+  * Several levels depending on severity
+  * Examples:
+    * Bruised rib
+    * Broken arm
+    * Eviscerated
 * ***Boosts:*** transient aspects of one of the above categories (disappears after use)
 
 # Basics
