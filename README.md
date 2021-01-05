@@ -10,7 +10,7 @@ This repo contains structured notes for the tabletop roleplaying game [Fate Core
 * [Aspects](Aspects.md)
 * [Fate points](Fate_Points.md)
 * [Skills](Skills.md)
-* Stunts
+* [Stunts](Stunts.md)
 * The three C's (Challenges, Contests, Combat)
 * Conflict
 * Recovery
