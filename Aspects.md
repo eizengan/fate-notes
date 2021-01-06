@@ -52,7 +52,8 @@
   
 # Compelling an aspect
 
-* Describe how the actor's aspect is relevant to the situation
+* Choose an aspect - any aspect - to use for the compel
+* Describe how the aspect is relevant to the situation
 * Request the compel (unless the GM is the requester)
 * Decide what happens
 * Compelled actor chooses chooses:
