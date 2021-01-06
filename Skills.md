@@ -29,7 +29,7 @@
   * Tower: each skill level may have no more skills than the level below
 * Players start with pyramid/tower including 1/2 of the skills (rounding up)
 * Skills are capped at starting max (determined by initial allocation)
-* Upon advancement each skill level may have no more skills than the level below
+* Upon [advancement](Advancement.md) each skill level may have no more skills than the level below
 
 # Extras
 
