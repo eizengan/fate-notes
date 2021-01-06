@@ -30,14 +30,9 @@
   * Another actor may opt to stand in for the defender if it makes sense
 * Calculate shifts between attack and defense rolls
 * If attacker succeeds, the defender must absorb the shifts by...
-  * Taking stress of equal or greater value in the corresponding stress track
-  * Taking a normal consequence of equal or greater value
+  * Taking one or more consequences, each reducing the successful roll's shifts
     * Actor who inflicted the consequence gets a free invocation against it
-  * Taking an extreme consequence
-    * Actor who inflicted the consequence gets a free invocation against it
-    * Absorbs 8 shifts (8+ might be fun?)
-    * Only once between major milestones
-    * Replace one aspect (not high concept)
+  * Taking stress of equal or greater value to the remaining shifts the corresponding stress track
   * Being taken out
 
 # Conceding and being taken out
