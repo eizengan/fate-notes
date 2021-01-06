@@ -15,7 +15,7 @@ This repo contains structured notes for the tabletop roleplaying game [Fate Core
   * [Challenges](Challenges.md)
   * [Contests](Contests.md)
   * [Conflicts](Conflicts.md)
-* Recovery
+* [Stress/Consequences](Stress_Consequences.md)
 * Teamwork
 * Advancement
 * System mutability
