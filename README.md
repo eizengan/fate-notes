@@ -5,11 +5,11 @@ This repo contains structured notes for the tabletop roleplaying game [Fate Core
 
 * [Glossary](Glossary.md)
 * [Administration](Administration.md)
-* [Actions/Outcomes](Actions_Outcomes.md)
+* [Skills](Skills.md)
+* [Action outcomes](Actions_Outcomes.md)
 * [Rolls](Rolls.md)
 * [Aspects](Aspects.md)
 * [Fate points](Fate_Points.md)
-* [Skills](Skills.md)
 * [Stunts](Stunts.md)
 * The three C's
   * [Challenges](Challenges.md)
