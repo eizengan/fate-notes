@@ -4,12 +4,12 @@
 * Determine environment and time
   * Situation aspects
   * Zones ("bigger than a house") and actor position within them
-* Determine [turn order]()
+* Determine [turn order](Skills.md#extras)
 
 # Conduction
 
 * Conflict proceeds via exchanges until...
-  * Participants transition to a Contest
+  * Participants transition to a [Contest](Contests.md)
   * One side's actors have all conceded or been taken out
 * During each exchange each remaining actor takes a turn in turn order
 * Actors may concede at any time that there are no unresolved die rolls (even out-of-turn after an attack is declared)
@@ -22,7 +22,7 @@
     * Does not need to be a neighboring zone (set DC accordingly)
     * May be obstructed
     * May be in addition to normal movement
-  * Take a different action
+  * Take a different [action](Skills.md#usage)
   * Concentrate on defense (+2 to all defend rolls)
     
 # Resolving attacks
@@ -30,9 +30,9 @@
   * Another actor may opt to stand in for the defender if it makes sense
 * Calculate shifts between attack and defense rolls
 * If attacker succeeds, the defender must absorb the shifts by...
-  * Taking one or more consequences, each reducing the successful roll's shifts
+  * Taking one or more [consequences](Stress_Consequences.md#consequences), each reducing the successful roll's shifts
     * Actor who inflicted the consequence gets a free invocation against it
-  * Taking stress of equal or greater value to the remaining shifts the corresponding stress track
+  * Taking [stress](Stress_Consequences.md#stress) of equal or greater value to the remaining shifts the corresponding stress track
   * Being taken out
 
 # Conceding and being taken out
@@ -40,7 +40,7 @@
 * Opposing side gets what they want (if you are the last actor on your side)
 * When conceding:
   * You are allowed some say in your actor's conflict outcome ("left for dead instead" of "taken prisoner")
-  * Gain one Fate point for conceding (after the conflict ends)
+  * Gain one [Fate point](Fate_Points.md) for conceding (after the conflict ends)
   * Gain one Fate point for every consequence gained (after the conflict ends)
 * When taken out:
   * Your opponent chooses your actor's conflict outcome ("taken prisoner, no ifs or buts")
