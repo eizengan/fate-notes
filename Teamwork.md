@@ -1,9 +1,9 @@
 * Actors may collaborate on actions in two ways:
   * combining skills
     * all actors are participating equally
-    * all actors are performing the exact same action
+    * all actors are performing the exact same [action](Skills.md#usage)
     * make one roll at actor's collective highest bonus +1/actor with a bonus in the skill
-    * failure/success is shared by participants
+    * [failure/success](Actions_Outcomes.md) is shared by participants
     * examples:
       * collectively searching for a hidden doorway
       * breaking down a gate with a battering ram
