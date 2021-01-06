@@ -19,7 +19,7 @@
     * Infamous swordsman
     * Ranking member of the magisters guild
     * No cost is too great for my brother
-* ***Consequences:*** aspects as descriptions of injury
+* ***[Consequences](Stress_Consequences.md#consequences):*** aspects as descriptions of injury
   * Several levels depending on severity
   * Examples:
     * Bruised rib
@@ -47,7 +47,7 @@
   * add +2 to an existing source of passive opposition
   * create a +2 source of passive opposition
   * declare a story detail
-* Give a Fate point (unless free) to the aspect owners' player
+* Give a [Fate point](Fate_Points.md) (unless free) to the aspect owners' player
   * Exchanged Fate points are unavailable until scene concludes
   
 # Compelling an aspect
@@ -57,5 +57,5 @@
 * Request the compel (unless the GM is the requester)
 * Decide what happens
 * Compelled actor chooses chooses:
-  * to accept - situation unfolds and and requesting player gives compelled player a fate point
-  * to refuse - situation does not unfold, and compelled player loses a fate point if refusing the GM
+  * to accept - situation unfolds and and requesting player gives compelled player a [Fate point](Fate_Points.md)
+  * to refuse - situation does not unfold, and compelled player loses a Fate point if refusing the GM
