@@ -7,8 +7,8 @@
 
 # Conduction
 
-* Roll overcome actions according to the determined order
+* Roll overcome [actions](Skills.md#usage) according to the determined order
 * Boosts may be used towards later actions if it makes sense
-* Participants may attempt to craete an advantage
+* Participants may attempt to create an advantage
   * Failure creates a cost or problem which negatively affects one or more tasks or goals  
 * Outcome is determined only once all tasks and goals have been attempted
