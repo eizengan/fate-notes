@@ -5,7 +5,7 @@
     * Use strength to climb a steep cliff
     * Use charisma to bluff at a hand of cards
     * Use intelligence to recall an esoteric fact
-* ***Create an advantag:*** use a skill to discover, create, or leverage an aspect which can help you succeed in your goals
+* ***Create an advantage:*** use a skill to discover, create, or leverage an aspect which can help you succeed in your goals
   * Examples (create/discover):
     * Use strength to push over a bookcase to slow pursuers
     * Use perception to gain information to leverage on a suspect
