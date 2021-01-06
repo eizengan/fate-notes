@@ -1,11 +1,26 @@
 # Usage
 
-* Skills used to perform the following actions:
-  * ***Overcome an obstacle:*** tackle a skill-related obstacle or hindrance
-  * ***Create an advantag:*** use a skill to discover, create, or leverage an aspect which can help you succeed in your goals
-  * ***Attack:*** use a skill to harm another actor
-  * ***Defend:*** use a skill to avoid harm caused by another actor or to actively keep them from creating an advantage
-* Some actions will not be available to some skills (cannot typically Attack with Lore) 
+* ***Overcome an obstacle:*** tackle a skill-related obstacle or hindrance
+  * Examples:
+    * Use strength to climb a steep cliff
+    * Use charisma to bluff at a hand of cards
+    * Use intelligence to recall an esoteric fact
+* ***Create an advantag:*** use a skill to discover, create, or leverage an aspect which can help you succeed in your goals
+  * Examples (create/discover):
+    * Use strength to push over a bookcase to slow pursuers
+    * Use perception to gain information to leverage on a suspect
+  * Examples (known):
+    * Use endurance to ensure an out-of-shape pursuer is winded when you engage them
+    * Use charisma to appeal to a royal's famous ego
+* ***Attack:*** use a skill to harm another actor
+  * Examples:
+    * Use strength to stab an opponent
+    * Use charisma to intimidate an opponent into submission
+* ***Defend:*** use a skill to avoid harm caused by another actor or to actively keep them from creating an advantage
+  * Examples:
+    * Use endurance to withstand a blow with a club
+    * Use perception to avoid submitting to intimidation
+* Some actions will not be available to some skills (cannot typically Attack with intelligence) 
 
 # Allocation
 
