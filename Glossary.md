@@ -1,8 +1,8 @@
 # Set and setting
 
-* ***Campaign:*** a series of arcs in the same world
-* ***Arc:*** a series of scenarios spent resolving a major problem
-* ***Scenario:*** a series of sessions spent resolving a single problem
+* ***Campaign:*** a series of arcs in the same world (a television show)
+* ***Arc:*** a series of scenarios spent resolving a major problem (a season)
+* ***Scenario:*** a series of sessions spent resolving a single problem (an episode)
 * ***Session:*** an unbroken sequence of scenes (one real-world gathering)
 * ***Scene:*** an unbroken sequence of roleplaying and actions
 * ***Situation:*** part of a scene with extremely short timescale (turn-based, zoomed in action)
